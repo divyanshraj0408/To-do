@@ -1,0 +1,91 @@
+      .text {
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+          top: 0cm;
+          text-align: start;
+          font-style: italic;
+          color: rgb(0, 0, 0);
+      }
+      
+      .background {
+          background-color: #41b3a3;
+          border-radius: 25px;
+      }
+      
+      .background_block {
+          margin-left: auto;
+          margin-right: auto;
+          top: 50%;
+          bottom: 50%;
+          background-color: #85DC;
+          border-radius: 25px;
+          width: 1000px;
+          height: 500px;
+          border: 3px solid #73AD21;
+          padding: 100px;
+          box-shadow: 10px 10px 5px rgb(0, 0, 0);
+      }
+      
+      .btn {
+          border-radius: 10px;
+          background-color: rgb(237, 243, 248);
+          border: none;
+          color: rgb(43, 29, 29);
+          padding: 2px 16px;
+          font-size: 16px;
+          cursor: pointer;
+      }
+      
+      .btn:hover {
+          opacity: 0.8;
+      }
+      
+      .input {
+          align-items: center;
+          width: 75%;
+          padding: 12px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          border-radius: 20px;
+          box-sizing: border-box;
+          cursor: pointer;
+      }
+      
+      .input:hover {
+          opacity: 0.8;
+          background-color: rgb(162, 162, 243);
+      }
+      
+      .input2 {
+          align-items: center;
+          width: 15%;
+          padding: 12px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          border-radius: 20px;
+          box-sizing: border-box;
+          cursor: pointer;
+      }
+      
+      .input2:hover {
+          opacity: 0.8;
+          background-color: rgb(162, 162, 243);
+      }
+      
+      .input3 {
+          align-items: center;
+          width: 20%;
+          padding: 12px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          border-radius: 20px;
+          box-sizing: border-box;
+          cursor: pointer;
+      }
+      
+      .input3:hover {
+          opacity: 0.8;
+          background-color: #F012BE;
+      }
